@@ -16,19 +16,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+## 🔧 Skills
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- **Documentation:** Jira, Notion, Confluence
+- **Frameworks:** Spring Boot, Django, Strapi, Trcp, Angular, Vue, React, Next.js, Node.js, Serverless
+- **Databases:** MySQL, SQLServer, PostgreSQL, MongoDB, MariaDB
+- **Languages:** C++, Python, PHP, Java, Solidity, HTML, CSS3, Sass, TypeScript, JavaScript 
+- **Others:** Blockchain y Web3, Machine Learning, Kubernetes, Docker, AWS, CI/CD
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💬 Ask me about **any technology you find here**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Feel free to reach me out **francogallegos02@outlook.com**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [francogallegosqu](https://www.linkedin.com/in/francogallegosqu) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
@@ -55,9 +55,9 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="[https://www.linkedin.com/in/1010nishant/](https://www.linkedin.com/in/francogallegosqu/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!-- <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> -->
-<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
+<a href="[https://www.linkedin.com/in/francogallegosqu/](https://www.linkedin.com/in/francogallegosqu/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
+## 📫 Contact
 
+- [LinkedIn]([enlace a tu perfil](https://www.linkedin.com/in/francogallegosqu/))
+- [Email](francogallegos02@outlook.com)
