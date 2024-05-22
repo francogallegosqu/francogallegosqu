@@ -6,6 +6,10 @@
   </ul>
 </div>
 
+<!-- Banner -->
+<p align="center">
+  <img src="[https://github.com/tu-usuario/tu-repo/blob/main/banner.png](https://github.com/francogallegosqu/francogallegosqu/blob/main/bannergithub.png)" alt="Banner">
+</p>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
