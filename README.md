@@ -59,5 +59,5 @@
 </p>
 📫 Contact
 
-- [LinkedIn]([[enlace a tu perfil](https://www.linkedin.com/in/francogallegosqu/)](https://www.linkedin.com/in/francogallegosqu/))
-- [francogallegos02@outlook.com](francogallegos02@outlook.com)
+- [LinkedIn]((https://www.linkedin.com/in/francogallegosqu/)](https://www.linkedin.com/in/francogallegosqu/))
+- [Email](francogallegos02@outlook.com)
